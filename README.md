@@ -1,6 +1,10 @@
 # VBA-challenge_2nd
 
-VBA Homework: The VBA of Wall Street
+*As per the instructions we are not required to load the xlsm files. The xlsm file is too big to load.
+*The VBA Script can be run for the original excel file provided with the homework which will give the results required. 
+*If the script is working to give the required results the challenge is achieved.
+
+*VBA Homework: The VBA of Wall Street
 
 * With the stock data provided following analysis had been carried out for the three years 2014, 2015 and 2016 with the stock market data provided. 
 
